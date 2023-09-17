@@ -47,7 +47,6 @@ const List = () => {
 
       return [Math.max(0, start - 10), start + length + 10];
     };
-    console.log("effect???", getRenderRange());
 
     setListWithStyle(
       list

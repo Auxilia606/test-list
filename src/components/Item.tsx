@@ -14,4 +14,4 @@ const Item: React.FC<ItemProps> = (props) => {
   );
 };
 
-export default Item;
+export default React.memo(Item);
