@@ -1,0 +1,12 @@
+.list-container {
+  margin: 8px;
+  border: solid 1px black;
+  flex: 1;
+  width: 300px;
+  overflow: auto scroll;
+  position: relative;
+}
+
+.scroll-container {
+  background-color: lightgrey;
+}

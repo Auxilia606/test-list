@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  margin: 8px;
+}
+
+.header-input {
+  text-align: right;
+  width: 80px;
+}
+
+.header-option {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 4px;
+}

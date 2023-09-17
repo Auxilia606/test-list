@@ -1,0 +1,8 @@
+.item-container {
+  position:absolute;
+  height: 32px;
+  width: 160px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
